@@ -31,8 +31,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local.
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    cd <NOMBRE_DEL_DIRECTORIO>
+    git clone https://github.com/AlfonsoFichas-bit/API_wk.git
+    cd API_wk
     ```
 
 2.  **Crea un archivo `.env`** en la raíz del proyecto y añade la URL de conexión a tu base de datos:
